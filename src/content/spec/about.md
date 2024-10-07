@@ -1,7 +1,7 @@
 # About
 
-This is a English blog of xiaoshu.
+嗨，这是我的一个静态博客
 ::github{repo="Aicnal/Aicnal"}
 
-I am a Chinese student who is major in Bio. And I am glad to meet you in here.
-I hope you can enjoy your time.
+我是一位生物科学专业的本科生，现就读于大陆某高校
+在这个博客里面我想写一些可能我不会在其他博客中写的东西，感谢Cloudflare赛博大善人，我只需付域名的费用即可使用
