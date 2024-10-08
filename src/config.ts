@@ -9,7 +9,7 @@ import { LinkPreset } from './types/config'
 export const siteConfig: SiteConfig = {
   title: 'Duck\'s Blog',
   subtitle: 'A blog about tech, bio and life.',
-  lang: 'zh_CN',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
+  lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: false,     // Hide the theme color picker for visitors
@@ -39,8 +39,8 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'GitHub',
-      url: 'https://github.com/Aicnal',     // Internal links should not include the base path, as it is automatically added
+      name: 'Nobel Prize',  
+      url: 'https://www.nobelprize.org',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
@@ -56,17 +56,7 @@ export const profileConfig: ProfileConfig = {
       icon: 'twemoji:envelope',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'mailto:liusomes@gmail.com?cc=&bcc=&subject=&body=',
-    },
-    {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
-    },
-    {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/Aicnal', 
+      url: 'mailto:duck@duckk.org?cc=&bcc=&subject=&body=',
     },
   ],
 }

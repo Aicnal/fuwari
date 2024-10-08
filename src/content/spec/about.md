@@ -1,8 +1,15 @@
 # About
 
-嗨，这是我的一个静态博客
-::github{repo="Aicnal/Aicnal"}
+Hi, this is my static blog.
 
-我是一位生物科学专业的本科生，现就读于中国某高校
+Glad to see you here.
 
-很高兴与你相遇
+Contact with me with duck@duckk.org
+
+---
+
+嗨，這是我的一個靜態博客
+
+很高興與你相遇
+
+歡迎致信：duck@duckk.org
