@@ -4,7 +4,7 @@ Hi, this is my static blog.
 
 Glad to see you here.
 
-Contact with me with duck@duckk.org
+Contact with me with [duck@duckk.org](mailto:duck@duckk.org?cc=&bcc=&subject=&body=)
 
 ---
 
@@ -12,4 +12,4 @@ Contact with me with duck@duckk.org
 
 很高興與你相遇
 
-歡迎致信：duck@duckk.org
+歡迎致信：[duck@duckk.org](mailto:duck@duckk.org?cc=&bcc=&subject=&body=)
