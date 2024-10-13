@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Duck\'s Blog',
-  subtitle: 'A blog about my boring life.',
+  subtitle: 'A blog about my bio life.',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://img.duckk.org/2024/10/6c991c645ae4caf591ce58d79f13fdcc.JPG',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Duck',
   bio: 'Love is two sides way.',
   links: [
