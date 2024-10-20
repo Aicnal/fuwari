@@ -1,12 +1,12 @@
 ---
-title: 《The Great Wall of China: a physical barrier to gene flow》文献阅读笔记
+title: "《The Great Wall of China: a physical barrier to gene flow》文献阅读笔记"
 published: 2024-10-20
-description: '《The Great Wall of China: a physical barrier to gene flow》文献阅读笔记'
-image: ''
+description: "《The Great Wall of China: a physical barrier to gene flow》文献阅读笔记"
+image: ""
 tags: [Note]
-category: 'Paper'
-draft: false 
-lang: ''
+category: "Paper"
+draft: false
+lang: ""
 ---
 地理隔离往往带来生殖隔离，作为人工物理屏障，长城是研究其对周围物种遗传分化影响的绝佳模型。研究人员从居庸关长城两侧的六个植物物种中各选择了一个种群，并从居庸关附近山顶的一条小路两侧的五个物种中各选择了一个种群。
 
