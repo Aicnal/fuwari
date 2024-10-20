@@ -16,7 +16,7 @@ lang: ""
 
 ~~A和B实际上是两端长城的不同位置，C点的作用更类似于对照组~~
 
-![](https://img.duckk.org/2024/10/cc942975cee2f583e5fda6cd32b78563.png)
+![](https://img.duckk.org/2024/10/a4a4265ef05a9856b0e6fb1eefab728c.png)
 
 对收集到的嫩叶在室温环境下保存到硅胶中，使用CTAB方法从干燥叶片中提取总DNA。
 
