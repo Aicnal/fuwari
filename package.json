@@ -16,6 +16,7 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/rss": "^4.0.7",
+<<<<<<< HEAD
     "@astrojs/sitemap": "^3.2.0",
     "@astrojs/svelte": "^5.7.1",
     "@astrojs/tailwind": "^5.1.1",
@@ -25,6 +26,15 @@
     "@iconify-json/twemoji": "^1.2.0",
     "@swup/astro": "^1.4.1",
     "astro": "^4.15.11",
+=======
+    "@astrojs/sitemap": "^3.1.6",
+    "@astrojs/svelte": "^5.7.1",
+    "@astrojs/tailwind": "^5.1.1",
+    "@fontsource-variable/jetbrains-mono": "^5.0.22",
+    "@fontsource/roboto": "^5.0.14",
+    "@swup/astro": "^1.4.1",
+    "astro": "^4.15.9",
+>>>>>>> upstream/main
     "astro-compress": "^2.3.1",
     "astro-icon": "^1.1.1",
     "colorjs.io": "^0.5.2",
