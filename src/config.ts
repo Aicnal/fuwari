@@ -15,12 +15,12 @@ export const siteConfig: SiteConfig = {
     fixed: false,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: false,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: true,
+    src: 'https://img.duckk.org/2024/11/1c398812786c0b05d5f93c953d40a8ca.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
-      enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
+      enable: true,         // Display the credit text of the banner image
+      text: '「你應當選擇你真正熱愛的」',              // Credit text to be displayed
       url: ''                // (Optional) URL link to the original artwork or artist's page
     }
   },
@@ -43,7 +43,7 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'Nobel Prize',  
+      name: 'Nobel Prize',
       url: 'https://www.nobelprize.org',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
@@ -57,9 +57,9 @@ export const profileConfig: ProfileConfig = {
   links: [
     {
       name: 'Email',
-      icon: 'twemoji:envelope',       // Visit https://icones.js.org/ for icon codes
-                                        // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
+      icon: 'fa6-regular:envelope',       // Visit https://icones.js.org/ for icon codes
+      // You will need to install the corresponding icon set if it's not already included
+      // `pnpm add @iconify-json/<icon-set-name>`
       url: 'mailto:duck@duckk.org?cc=&bcc=&subject=&body=',
     },
   ],
