@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'https://img.duckk.org/2024/11/1c398812786c0b05d5f93c953d40a8ca.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'https://img.duckk.org/2024/11/6177866c26f81e1dd211c4e34eb52934.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: true,         // Display the credit text of the banner image
@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'https://img.duckk.org/2024/10/6c991c645ae4caf591ce58d79f13fdcc.JPG',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'https://img.duckk.org/2024/11/0c9b518e5c3f59b84710a7cf74ac034d.webp',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Duck',
   bio: 'Love is two sides way.',
   links: [
